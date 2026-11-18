@@ -1,0 +1,57 @@
+{
+  "bat": {
+    "train": [
+      "bat\\bat_01.wav",
+      "bat\\bat_02.wav",
+      "bat\\bat_03.wav"
+    ],
+    "test": [
+      "bat\\bat_04.wav",
+      "bat\\bat_05.wav"
+    ]
+  },
+  "dung": {
+    "train": [
+      "dung\\dung_01.wav",
+      "dung\\dung_02.wav",
+      "dung\\dung_03.wav"
+    ],
+    "test": [
+      "dung\\dung_04.wav",
+      "dung\\dung_05.wav"
+    ]
+  },
+  "len": {
+    "train": [
+      "len\\len_01.wav",
+      "len\\len_02.wav",
+      "len\\len_03.wav"
+    ],
+    "test": [
+      "len\\len_04.wav",
+      "len\\len_05.wav"
+    ]
+  },
+  "xuong": {
+    "train": [
+      "xuong\\xuong_01.wav",
+      "xuong\\xuong_02.wav",
+      "xuong\\xuong_03.wav"
+    ],
+    "test": [
+      "xuong\\xuong_04.wav",
+      "xuong\\xuong_05.wav"
+    ]
+  },
+  "trai": {
+    "train": [
+      "trai\\trai_01.wav",
+      "trai\\trai_02.wav",
+      "trai\\trai_03.wav"
+    ],
+    "test": [
+      "trai\\trai_04.wav",
+      "trai\\trai_05.wav"
+    ]
+  }
+}

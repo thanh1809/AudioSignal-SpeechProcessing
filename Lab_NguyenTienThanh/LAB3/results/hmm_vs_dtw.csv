@@ -1,0 +1,3 @@
+model,accuracy,train_templates_per_class,mean_train_seconds,test_seconds_per_trial,top_confusion
+HMM 39D MFCC+delta+delta2,1.0,3,0.350059459998738,0.0010473099944647401,none
+DTW 13D MFCC,1.0,3,,0.05200425999646541,none

@@ -1,0 +1,199 @@
+{
+  "labels": [
+    "bat",
+    "dung",
+    "len",
+    "xuong",
+    "trai"
+  ],
+  "split": {
+    "bat": {
+      "train": [
+        "bat\\bat_01.wav",
+        "bat\\bat_02.wav",
+        "bat\\bat_03.wav"
+      ],
+      "test": [
+        "bat\\bat_04.wav",
+        "bat\\bat_05.wav"
+      ]
+    },
+    "dung": {
+      "train": [
+        "dung\\dung_01.wav",
+        "dung\\dung_02.wav",
+        "dung\\dung_03.wav"
+      ],
+      "test": [
+        "dung\\dung_04.wav",
+        "dung\\dung_05.wav"
+      ]
+    },
+    "len": {
+      "train": [
+        "len\\len_01.wav",
+        "len\\len_02.wav",
+        "len\\len_03.wav"
+      ],
+      "test": [
+        "len\\len_04.wav",
+        "len\\len_05.wav"
+      ]
+    },
+    "xuong": {
+      "train": [
+        "xuong\\xuong_01.wav",
+        "xuong\\xuong_02.wav",
+        "xuong\\xuong_03.wav"
+      ],
+      "test": [
+        "xuong\\xuong_04.wav",
+        "xuong\\xuong_05.wav"
+      ]
+    },
+    "trai": {
+      "train": [
+        "trai\\trai_01.wav",
+        "trai\\trai_02.wav",
+        "trai\\trai_03.wav"
+      ],
+      "test": [
+        "trai\\trai_04.wav",
+        "trai\\trai_05.wav"
+      ]
+    }
+  },
+  "hmm_accuracy": 1.0,
+  "dtw_accuracy": 1.0,
+  "noise_20db_accuracy": 0.6,
+  "static_mfcc_hmm_accuracy": 1.0,
+  "mean_hmm_training_seconds": 0.350059459998738,
+  "mean_hmm_test_decode_seconds": 0.0010473099944647401,
+  "mean_dtw_test_seconds": 0.05200425999646541,
+  "hmm_confusion": [
+    [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "dtw_confusion": [
+    [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      2,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  ],
+  "hmm_train": {
+    "bat": {
+      "iterations": 4,
+      "final_train_loglik": -3149.9320951625364
+    },
+    "dung": {
+      "iterations": 5,
+      "final_train_loglik": -6180.02219782132
+    },
+    "len": {
+      "iterations": 6,
+      "final_train_loglik": -5290.100464250645
+    },
+    "xuong": {
+      "iterations": 4,
+      "final_train_loglik": -6245.590429867376
+    },
+    "trai": {
+      "iterations": 9,
+      "final_train_loglik": -6334.93397955125
+    }
+  },
+  "state_experiment": [
+    {
+      "n_states": 3,
+      "accuracy": 1.0,
+      "mean_iterations": 6.8,
+      "train_seconds": 3.2177886000135913
+    },
+    {
+      "n_states": 5,
+      "accuracy": 1.0,
+      "mean_iterations": 5.6,
+      "train_seconds": 1.0428478999820072
+    },
+    {
+      "n_states": 7,
+      "accuracy": 1.0,
+      "mean_iterations": 6.6,
+      "train_seconds": 3.0933132999925874
+    }
+  ],
+  "test_count": 10,
+  "per_frame_correct_score_quantiles": [
+    -37.45467995823561,
+    -37.45467995823561,
+    -34.12890945282719,
+    -29.166037918171646,
+    -29.166037918171646
+  ],
+  "top_margin_mean": 2807.0375700562504,
+  "full_covariance": "not fitted: 3 training utterances/class are insufficient for a stable 39-D covariance estimate"
+}

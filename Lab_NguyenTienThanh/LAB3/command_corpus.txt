@@ -1,0 +1,12 @@
+bat len
+bat xuong
+dung len
+dung xuong
+len trai
+xuong trai
+trai dung
+len dung
+xuong dung
+bat dung
+dung trai
+trai len

@@ -1,0 +1,30 @@
+{
+  "unigram": {
+    "bat": 3,
+    "dung": 7,
+    "len": 5,
+    "xuong": 4,
+    "trai": 5
+  },
+  "bigram_context_counts": {
+    "bat": 3,
+    "dung": 3,
+    "len": 2,
+    "xuong": 2,
+    "trai": 2
+  },
+  "bigram": {
+    "bat len": 1,
+    "bat xuong": 1,
+    "dung len": 1,
+    "dung xuong": 1,
+    "len trai": 1,
+    "xuong trai": 1,
+    "trai dung": 1,
+    "len dung": 1,
+    "xuong dung": 1,
+    "bat dung": 1,
+    "dung trai": 1,
+    "trai len": 1
+  }
+}

@@ -1,0 +1,7 @@
+file,previous_word,lambda,acoustic_top1,reranked,top_candidates
+bat_04.wav,dung,0.0,bat,bat,"[""bat"", ""dung""]"
+bat_04.wav,dung,0.1,bat,bat,"[""bat"", ""dung""]"
+bat_04.wav,dung,0.3,bat,bat,"[""bat"", ""dung""]"
+bat_04.wav,dung,1.0,bat,bat,"[""bat"", ""dung""]"
+bat_04.wav,dung,20.0,bat,bat,"[""bat"", ""trai""]"
+bat_04.wav,dung,100.0,bat,trai,"[""trai"", ""len""]"
