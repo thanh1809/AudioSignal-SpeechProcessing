@@ -1,0 +1,5 @@
+utterance,method,total_join_cost
+QUEUE,fixed first candidate,2042.1318050825175
+QUEUE,DP unit selection,2042.1318050825175
+S1 command,fixed first candidate,594.9313149108577
+S1 command,DP unit selection,364.0116828196486

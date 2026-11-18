@@ -1,0 +1,6 @@
+{
+  "model_id": "facebook/mms-tts-vie",
+  "license": "CC-BY-NC 4.0",
+  "weights_in_repo": false,
+  "offline_after_preparation": true
+}

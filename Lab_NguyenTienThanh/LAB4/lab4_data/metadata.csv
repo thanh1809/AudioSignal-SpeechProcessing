@@ -1,0 +1,54 @@
+label,speaker,duration_s,rms,sample_rate,channels,subtype,source_file,path
+bật,unknown (not annotated),0.66725,0.1630829663493525,16000,1,PCM_16,bat\bat_01.wav,lab4_data\units\bat_01.wav
+bật,unknown (not annotated),0.512,0.16273314286794563,16000,1,PCM_16,bat\bat_02.wav,lab4_data\units\bat_02.wav
+bật,unknown (not annotated),0.5939375,0.1245250282374093,16000,1,PCM_16,bat\bat_03.wav,lab4_data\units\bat_03.wav
+bật,unknown (not annotated),0.768,0.15720870013297572,16000,1,PCM_16,bat\bat_04.wav,lab4_data\units\bat_04.wav
+bật,unknown (not annotated),0.5808125,0.12978659723024488,16000,1,PCM_16,bat\bat_05.wav,lab4_data\units\bat_05.wav
+dừng,unknown (not annotated),0.672,0.22775224026798344,16000,1,PCM_16,dung\dung_01.wav,lab4_data\units\dung_01.wav
+dừng,unknown (not annotated),0.7386875,0.2344473486247517,16000,1,PCM_16,dung\dung_02.wav,lab4_data\units\dung_02.wav
+dừng,unknown (not annotated),0.576,0.2292520741370405,16000,1,PCM_16,dung\dung_03.wav,lab4_data\units\dung_03.wav
+dừng,unknown (not annotated),0.8551875,0.2111877179451784,16000,1,PCM_16,dung\dung_04.wav,lab4_data\units\dung_04.wav
+dừng,unknown (not annotated),0.736,0.2277064409507616,16000,1,PCM_16,dung\dung_05.wav,lab4_data\units\dung_05.wav
+lên,unknown (not annotated),0.913,0.24789257358761532,16000,1,PCM_16,len\len_01.wav,lab4_data\units\len_01.wav
+lên,unknown (not annotated),0.78125,0.24345173983016508,16000,1,PCM_16,len\len_02.wav,lab4_data\units\len_02.wav
+lên,unknown (not annotated),0.896,0.24808468002983067,16000,1,PCM_16,len\len_03.wav,lab4_data\units\len_03.wav
+lên,unknown (not annotated),0.942,0.23649311253539268,16000,1,PCM_16,len\len_04.wav,lab4_data\units\len_04.wav
+lên,unknown (not annotated),0.6793125,0.21298039739544752,16000,1,PCM_16,len\len_05.wav,lab4_data\units\len_05.wav
+phải,unknown (not annotated),0.9608125,0.16756607007807317,16000,1,PCM_16,phai\phai_01.wav,lab4_data\units\phai_01.wav
+phải,unknown (not annotated),1.073125,0.14067945354391084,16000,1,PCM_16,phai\phai_02.wav,lab4_data\units\phai_02.wav
+phải,unknown (not annotated),0.75525,0.12447442321897274,16000,1,PCM_16,phai\phai_03.wav,lab4_data\units\phai_03.wav
+phải,unknown (not annotated),0.832,0.1651527416643616,16000,1,PCM_16,phai\phai_04.wav,lab4_data\units\phai_04.wav
+phải,unknown (not annotated),0.7684375,0.08378495952388433,16000,1,PCM_16,phai\phai_05.wav,lab4_data\units\phai_05.wav
+trái,unknown (not annotated),0.736,0.22255630484275987,16000,1,PCM_16,trai\trai_01.wav,lab4_data\units\trai_01.wav
+trái,unknown (not annotated),0.93925,0.1719769785593027,16000,1,PCM_16,trai\trai_02.wav,lab4_data\units\trai_02.wav
+trái,unknown (not annotated),0.7346875,0.16583959375599275,16000,1,PCM_16,trai\trai_03.wav,lab4_data\units\trai_03.wav
+trái,unknown (not annotated),0.7661875,0.17349953467088175,16000,1,PCM_16,trai\trai_04.wav,lab4_data\units\trai_04.wav
+trái,unknown (not annotated),0.736,0.18647864219890664,16000,1,PCM_16,trai\trai_05.wav,lab4_data\units\trai_05.wav
+tắt,unknown (not annotated),0.545,0.12217175848476607,16000,1,PCM_16,tat\tat_01.wav,lab4_data\units\tat_01.wav
+tắt,unknown (not annotated),0.51375,0.10923853160031384,16000,1,PCM_16,tat\tat_02.wav,lab4_data\units\tat_02.wav
+tắt,unknown (not annotated),0.6625625,0.1657183257707624,16000,1,PCM_16,tat\tat_03.wav,lab4_data\units\tat_03.wav
+tắt,unknown (not annotated),0.4920625,0.09027776127505464,16000,1,PCM_16,tat\tat_04.wav,lab4_data\units\tat_04.wav
+tắt,unknown (not annotated),0.4986875,0.1295290744121888,16000,1,PCM_16,tat\tat_05.wav,lab4_data\units\tat_05.wav
+xuống,unknown (not annotated),0.8214375,0.22211363948971788,16000,1,PCM_16,xuong\xuong_01.wav,lab4_data\units\xuong_01.wav
+xuống,unknown (not annotated),0.8485625,0.18459691902957007,16000,1,PCM_16,xuong\xuong_02.wav,lab4_data\units\xuong_02.wav
+xuống,unknown (not annotated),0.672,0.18443913684894597,16000,1,PCM_16,xuong\xuong_03.wav,lab4_data\units\xuong_03.wav
+xuống,unknown (not annotated),0.7209375,0.13404901669592137,16000,1,PCM_16,xuong\xuong_04.wav,lab4_data\units\xuong_04.wav
+xuống,unknown (not annotated),1.0795625,0.21687186588990234,16000,1,PCM_16,xuong\xuong_05.wav,lab4_data\units\xuong_05.wav
+mời,MMS VITS single-speaker synthesis,0.592,0.1685785059116596,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\moi_neural_01.wav
+mời,MMS VITS single-speaker synthesis,0.48,0.17972713101878074,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\moi_neural_02.wav
+khách,MMS VITS single-speaker synthesis,0.352,0.11186577048493213,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\khach_neural_01.wav
+khách,MMS VITS single-speaker synthesis,0.352,0.10608526148537568,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\khach_neural_02.wav
+hàng,MMS VITS single-speaker synthesis,0.448,0.1318825092680878,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\hang_neural_01.wav
+hàng,MMS VITS single-speaker synthesis,0.416,0.12266464590695833,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\hang_neural_02.wav
+số,MMS VITS single-speaker synthesis,0.64,0.12374244656723497,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\so_neural_01.wav
+số,MMS VITS single-speaker synthesis,0.576,0.10788378693577252,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\so_neural_02.wav
+hai,MMS VITS single-speaker synthesis,0.896,0.10640920847171967,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\hai_neural_01.wav
+hai,MMS VITS single-speaker synthesis,0.8,0.11077722430105937,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\hai_neural_02.wav
+ba,MMS VITS single-speaker synthesis,0.72,0.08498658460600814,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\ba_neural_01.wav
+ba,MMS VITS single-speaker synthesis,0.8,0.09878132922911875,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\ba_neural_02.wav
+đến,MMS VITS single-speaker synthesis,0.416,0.17284080019151474,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\den_neural_01.wav
+đến,MMS VITS single-speaker synthesis,0.416,0.1764626868830133,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\den_neural_02.wav
+quầy,MMS VITS single-speaker synthesis,0.448,0.15970204699584747,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\quay_neural_01.wav
+quầy,MMS VITS single-speaker synthesis,0.448,0.15269973885981128,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\quay_neural_02.wav
+năm,MMS VITS single-speaker synthesis,0.416,0.13386892434800612,16000,1,PCM_16,facebook/mms-tts-vie generated variant 1,lab4_data\units\nam_neural_01.wav
+năm,MMS VITS single-speaker synthesis,0.416,0.13676239359046094,16000,1,PCM_16,facebook/mms-tts-vie generated variant 2,lab4_data\units\nam_neural_02.wav

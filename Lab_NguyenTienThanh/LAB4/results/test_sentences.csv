@@ -1,0 +1,5 @@
+id,text,tokens,file,duration_s,generation_latency_s,selection_cost,all_tokens_in_inventory,neural_file,neural_inference_latency_s
+S1,"Bật lên, dừng xuống, trái phải tắt.",bật lên dừng xuống trái phải tắt,S1_best_concat.wav,4.9300625,0.02396069999667816,371.13178341091293,True,S1_neural_tts.wav,1.487567800009856
+S2,Trái lên phải xuống.,trái lên phải xuống,S2_best_concat.wav,3.046,0.012688700022408739,187.68877870668413,True,S2_neural_tts.wav,0.8864494999870658
+S3,Tắt bật dừng.,tắt bật dừng,S3_best_concat.wav,1.89375,0.00851329998113215,104.54640622208748,True,S3_neural_tts.wav,0.725419199996395
+QUEUE,Mời khách hàng số 23 đến quầy 5.,mời khách hàng số hai ba đến quầy năm,queue_best_concat.wav,4.688,0.006648400012636557,2047.4462560974,True,neural_tts.wav,1.0848205999936908

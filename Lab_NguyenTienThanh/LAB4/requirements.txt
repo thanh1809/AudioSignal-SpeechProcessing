@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+soundfile
+librosa
+pandas
+reportlab
+python-docx
+jupyter
+torch
+transformers>=4.33
+huggingface-hub

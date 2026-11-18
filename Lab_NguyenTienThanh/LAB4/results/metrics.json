@@ -1,0 +1,109 @@
+{
+  "sample_rate": 16000,
+  "inventory_label_count": 16,
+  "candidate_recording_count": 53,
+  "candidates_per_label": {
+    "bật": 5,
+    "dừng": 5,
+    "lên": 5,
+    "phải": 5,
+    "trái": 5,
+    "tắt": 5,
+    "xuống": 5,
+    "mời": 2,
+    "khách": 2,
+    "hàng": 2,
+    "số": 2,
+    "hai": 2,
+    "ba": 2,
+    "đến": 2,
+    "quầy": 2,
+    "năm": 2
+  },
+  "queue_case": "Mời khách hàng số 23 đến quầy 5.",
+  "queue_case_tokens": [
+    "mời",
+    "khách",
+    "hàng",
+    "số",
+    "hai",
+    "ba",
+    "đến",
+    "quầy",
+    "năm"
+  ],
+  "queue_case_supported": true,
+  "queue_case_missing_units": [],
+  "demo_sentence": "Mời khách hàng số 23 đến quầy 5.",
+  "demo_tokens": [
+    "mời",
+    "khách",
+    "hàng",
+    "số",
+    "hai",
+    "ba",
+    "đến",
+    "quầy",
+    "năm"
+  ],
+  "crossfade_chosen_ms": 30,
+  "crossfade_metrics": [
+    {
+      "crossfade_ms": 0,
+      "mean_sample_jump": 0.008693695068359375,
+      "mean_energy_jump": 1.0964628564339218,
+      "boundary_count": 8,
+      "selection_total_cost": 2047.4462560974,
+      "combined_discontinuity_proxy": 1.9999998840621012
+    },
+    {
+      "crossfade_ms": 5,
+      "mean_sample_jump": 0.000713348388671875,
+      "mean_energy_jump": 0.7364329304540109,
+      "boundary_count": 8,
+      "selection_total_cost": 2047.4462560974,
+      "combined_discontinuity_proxy": 0.7536977335226835
+    },
+    {
+      "crossfade_ms": 15,
+      "mean_sample_jump": 0.001739501953125,
+      "mean_energy_jump": 0.3617722855205542,
+      "boundary_count": 8,
+      "selection_total_cost": 2047.4462560974,
+      "combined_discontinuity_proxy": 0.5300325961680092
+    },
+    {
+      "crossfade_ms": 30,
+      "mean_sample_jump": 0.00116729736328125,
+      "mean_energy_jump": 0.22363445566463147,
+      "boundary_count": 8,
+      "selection_total_cost": 2047.4462560974,
+      "combined_discontinuity_proxy": 0.3382293017950001
+    }
+  ],
+  "queue_fixed_join_cost": 2042.1318050825175,
+  "queue_selected_join_cost": 2042.1318050825175,
+  "queue_join_reduction_percent": 0.0,
+  "command_fixed_join_cost": 594.9313149108577,
+  "command_selected_join_cost": 364.0116828196486,
+  "command_join_reduction_percent": 38.81450283473834,
+  "median_f0_hz": 219.37971289876992,
+  "pitch_period_samples": 73,
+  "hmm_backend": "Five empirical state parameter means per word with state-duration-controlled recorded-unit resynthesis; HMM parameter demo, not a separately trained neural or full vocoder voice",
+  "neural_tts_model": "facebook/mms-tts-vie (Meta MMS VITS; local-only inference; CC-BY-NC 4.0)",
+  "neural_tts_available": true,
+  "neural_latency_s": {
+    "S1": 1.487567800009856,
+    "S2": 0.8864494999870658,
+    "S3": 0.725419199996395,
+    "QUEUE": 1.0848205999936908
+  },
+  "concat_latency_s": {
+    "S1": 0.02396069999667816,
+    "S2": 0.012688700022408739,
+    "S3": 0.00851329998113215,
+    "QUEUE": 0.006648400012636557
+  },
+  "subjective_ratings_collected": false,
+  "intelligibility_proxy": "All text tokens map to inventory; listener ratings remain to be collected."
+}

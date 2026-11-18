@@ -1,0 +1,135 @@
+{
+  "fixed": [
+    {
+      "position": 1,
+      "left_candidate": "0",
+      "right_candidate": "1",
+      "join_cost": 156.93187124135852,
+      "spectral_cost": 125.94571872281097,
+      "energy_cost": 2.5821793765456293
+    },
+    {
+      "position": 2,
+      "left_candidate": "1",
+      "right_candidate": "2",
+      "join_cost": 77.22377733158298,
+      "spectral_cost": 77.20852585840858,
+      "energy_cost": 0.0012709560978668296
+    },
+    {
+      "position": 3,
+      "left_candidate": "2",
+      "right_candidate": "3",
+      "join_cost": 1126.9529202194713,
+      "spectral_cost": 1079.3362211580934,
+      "energy_cost": 3.9680582551148293
+    },
+    {
+      "position": 4,
+      "left_candidate": "3",
+      "right_candidate": "4",
+      "join_cost": 147.0505660997419,
+      "spectral_cost": 138.84784178850765,
+      "energy_cost": 0.6835603592695202
+    },
+    {
+      "position": 5,
+      "left_candidate": "4",
+      "right_candidate": "5",
+      "join_cost": 87.76732348153195,
+      "spectral_cost": 84.60606239947386,
+      "energy_cost": 0.26343842350484076
+    },
+    {
+      "position": 6,
+      "left_candidate": "5",
+      "right_candidate": "6",
+      "join_cost": 87.03718805849965,
+      "spectral_cost": 80.69674493383037,
+      "energy_cost": 0.5283702603891068
+    },
+    {
+      "position": 7,
+      "left_candidate": "6",
+      "right_candidate": "7",
+      "join_cost": 259.52659862449514,
+      "spectral_cost": 247.5876423102785,
+      "energy_cost": 0.9949130261847179
+    },
+    {
+      "position": 8,
+      "left_candidate": "7",
+      "right_candidate": "8",
+      "join_cost": 99.64156002583616,
+      "spectral_cost": 99.55242953494185,
+      "energy_cost": 0.00742754090785868
+    }
+  ],
+  "selected": [
+    {
+      "position": 1,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 156.93187124135852,
+      "spectral_cost": 125.94571872281097,
+      "energy_cost": 2.5821793765456293
+    },
+    {
+      "position": 2,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 77.22377733158298,
+      "spectral_cost": 77.20852585840858,
+      "energy_cost": 0.0012709560978668296
+    },
+    {
+      "position": 3,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 1126.9529202194713,
+      "spectral_cost": 1079.3362211580934,
+      "energy_cost": 3.9680582551148293
+    },
+    {
+      "position": 4,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 147.0505660997419,
+      "spectral_cost": 138.84784178850765,
+      "energy_cost": 0.6835603592695202
+    },
+    {
+      "position": 5,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 87.76732348153195,
+      "spectral_cost": 84.60606239947386,
+      "energy_cost": 0.26343842350484076
+    },
+    {
+      "position": 6,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 87.03718805849965,
+      "spectral_cost": 80.69674493383037,
+      "energy_cost": 0.5283702603891068
+    },
+    {
+      "position": 7,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 259.52659862449514,
+      "spectral_cost": 247.5876423102785,
+      "energy_cost": 0.9949130261847179
+    },
+    {
+      "position": 8,
+      "left_candidate": "mms_01",
+      "right_candidate": "mms_01",
+      "join_cost": 99.64156002583616,
+      "spectral_cost": 99.55242953494185,
+      "energy_cost": 0.00742754090785868
+    }
+  ],
+  "dp_objective_including_target": 2047.4462560974
+}

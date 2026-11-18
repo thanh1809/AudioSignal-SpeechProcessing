@@ -1,4 +1,7 @@
 *.docx
+__pycache__/
+*.py[cod]
 
 # Rendered QA previews are generated from the report and are not project inputs.
 Lab_NguyenTienThanh/LAB3/render/
+Lab_NguyenTienThanh/LAB4/render/
