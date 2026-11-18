@@ -1,0 +1,10 @@
+﻿target_snr_db,method,measured_snr_in_db,snr_out_db,snr_improvement_db,noise_scale_alpha
+0,noisy,-0.0,-0.0,0.0,0.2424781
+0,spectral_subtraction,-0.0,6.6024,6.6024,0.2424781
+0,wiener,-0.0,8.9212,8.9212,0.2424781
+5,noisy,5.0,5.0,0.0,0.1363555
+5,spectral_subtraction,5.0,9.9478,4.9478,0.1363555
+5,wiener,5.0,11.3412,6.3412,0.1363555
+10,noisy,10.0,10.0,0.0,0.0766783
+10,spectral_subtraction,10.0,13.4036,3.4036,0.0766783
+10,wiener,10.0,13.9968,3.9968,0.0766783

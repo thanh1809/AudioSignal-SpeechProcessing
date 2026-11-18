@@ -1,0 +1,25 @@
+{
+  "sample_rate_hz": 16000,
+  "n_fft": 512,
+  "window_samples": 400,
+  "hop_samples": 160,
+  "seed": 457,
+  "speakers": [
+    "spk01",
+    "spk02",
+    "spk03"
+  ],
+  "enrollment_utterances_per_speaker": 4,
+  "dev_utterances_per_speaker": 2,
+  "test_utterances_per_speaker": 2,
+  "input_snr_db": [
+    0,
+    5,
+    10
+  ],
+  "noise_types": [
+    "synthetic fan-like",
+    "synthetic filtered cafeteria-like"
+  ],
+  "synthetic_voice_notice": "spk01 and spk02 are Microsoft SAPI TTS voices; spk03 is a deterministic pitch-shifted derivative of spk02. Results are for a reproducible teaching demonstration, not independent human-speaker validation."
+}

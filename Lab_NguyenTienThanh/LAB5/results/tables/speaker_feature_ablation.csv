@@ -1,0 +1,4 @@
+﻿features,cmn,clean_test_accuracy
+MFCC-only,False,1.0
+MFCC+delta,False,1.0
+MFCC+delta,True,1.0

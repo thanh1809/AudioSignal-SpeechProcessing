@@ -1,0 +1,5 @@
+﻿condition,accuracy,n
+clean,1.0,6
+noisy_5dB,0.6667,6
+spectral_subtraction_5dB,0.6667,6
+wiener_5dB,0.6667,6

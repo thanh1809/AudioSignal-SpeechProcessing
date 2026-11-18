@@ -1,0 +1,10 @@
+{
+  "threshold_selected_on": "dev",
+  "threshold": 0.9950000000000001,
+  "dev_far": 0.4166666666666667,
+  "dev_frr": 0.0,
+  "test_far": 0.3333333333333333,
+  "test_frr": 0.0,
+  "n_test_genuine": 6,
+  "n_test_impostor": 12
+}
